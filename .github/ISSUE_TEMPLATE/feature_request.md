@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for Ultimate Essentials Pro.
-title: "[Feature Request]"
-labels: ''
+title: ''
+labels: Feature Request
 assignees: ''
 
 ---
